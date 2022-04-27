@@ -2856,4 +2856,6 @@ Anything installed now will be specific to the project HelloWorld
 
 Exit the Virtual Environment
 
-conda deactivate.
+
+
+conda deactivate. 
