@@ -2857,3 +2857,5 @@ Anything installed now will be specific to the project HelloWorld
 Exit the Virtual Environment
 
 conda deactivate.
+
+Ajuste no texto para através da branch ajuste 1

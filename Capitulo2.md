@@ -293,3 +293,5 @@ monochromecolor on greyscale device
 resolutionresolution of the device
 scanscanning process of the device
 griddevice is a grid or bitmap
+
+Ajuste no texto para a branch ajuste1
